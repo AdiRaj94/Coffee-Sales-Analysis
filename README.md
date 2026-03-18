@@ -22,13 +22,13 @@ Monthly revenue trends show peaks in March and October.
 Weekday sales dominates by 75%.
 Card payments account for majority of transactions as it is used by 97% customers.                                       
 **Product Performance Analysis:**
-    Top 5 products generate the majority of revenue
-    Latte and Americano with Milk are top performers
-    Espresso is the lowest-performing product                                                                               
+    Top 5 products generate the majority of revenue. 
+    Latte and Americano with Milk are top performers. 
+    Espresso is the lowest-performing product.                                                                               
   **Time Analysis:**
-    Pear hours: 8 – 10 AM and 3-5PM
-    Highest revenue day: Tuesday
-    Lowest sales observed on Sunday                                                                                                  
+    Pear hours: 8 – 10 AM and 3-5PM.
+    Highest revenue day: Tuesday.
+    Lowest sales observed on Sunday.                                                                                                  
 **Pareto Analysis:**
     Applied 80/20 rule to identify that 5 products contribute to 84% of the total revenue.
 
